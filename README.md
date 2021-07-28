@@ -11,20 +11,22 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
 ## Habilidades 
 
 ### Front-End ⑥
-<p >
+<p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=3498db" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BootStrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=e74c3c" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JQuery-3498db?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BootStrap-e74c3c?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 ### Back-End ④
-- PHP
-- MySQL
-- Framework Laravel
-- Python
+<p>
+  <img src="https://img.shields.io/badge/PHP-9b59b6?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySql-3498db?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-e74c3c?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-f1c40f?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+</p>
 
 ## Estudo 📚
 

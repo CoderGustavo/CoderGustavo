@@ -1,5 +1,5 @@
 
-<h1 align='center' style="font-size: 35pt">Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
+<h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
 
 <p align='center'>
 Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
@@ -22,24 +22,31 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
 
 <hr />
 
-<h2>Minhas Habilidades</h2> 
+<h3>Minhas Habilidades</h3> 
 
-<h3> Front-End ⑥</h3>
+<h4> Front-End ⑥</h4>
 <p>
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JQuery-3498db?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/BootStrap-e74c3c?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/BootStrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h3> Back-End ④</h3>
+<h4> Back-End ④</h4>
 <p>
     <img src="https://img.shields.io/badge/PHP-9b59b6?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySql-3498db?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Laravel-e74c3c?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<hr />
+
+<h3>Habilidades que estou aprendendo</h3>
+<p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <hr />
@@ -50,4 +57,3 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
 - Escola ETEC JOÃO MARIA STEVANATTO
 - Itapira-SP
 
-<hr />

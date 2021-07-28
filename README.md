@@ -1,3 +1,11 @@
+<style>
+    h1:nth-of-type(1){
+        font-size: 35pt;
+    }
+    a:hover{
+        text-decoration: none;
+    }
+</style>
 <h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
 
 <p align='center'>
@@ -5,23 +13,23 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
 </p>
 
 <p align='center'>
-    <a href="https://github.com/CoderGustavo/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/CoderGustavo/">
         <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/gusta_ornaghi/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/gusta_ornaghi/">
         <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.tiktok.com/@codergustavo" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.tiktok.com/@codergustavo">
         <img src="https://img.shields.io/badge/TikTok-be2edd?style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
 
-<h2>Minhas Habilidades</h2> 
+<h1>Minhas Habilidades</h1> 
 
 <h2> Front-End ⑥</h2>
 <p>

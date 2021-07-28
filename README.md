@@ -1,28 +1,26 @@
-# Olá Pessoal, Me chamo Gustavo 👋
+<h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
+<p align='center'>
+Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CoderGustavo/)](https://github.com/CoderGustavo/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/)](https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/)
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/gusta_ornaghi/)](https://www.instagram.com/gusta_ornaghi/)
-[![TikTok Badge](https://img.shields.io/badge/-TikTok-ff0000?style=flat-square&labelColor=ff0000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@codergustavo)](https://www.tiktok.com/@codergustavo)
-<p>
-    <a href="https://github.com/CoderGustavo/">
-        <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+<p align='center'>
+    <a href="https://github.com/CoderGustavo/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/">
+    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/gusta_ornaghi/">
-        <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;
+    <a href="https://www.instagram.com/gusta_ornaghi/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.tiktok.com/@codergustavo">
-        <img src="https://img.shields.io/badge/TikTok-9b59b6?style=for-the-badge&logo=tiktok&logoColor=white" />&nbsp;&nbsp;
+    <a href="https://www.tiktok.com/@codergustavo" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/TikTok-e056fd?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
 </p>
 
-## Sobre Mim
-Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
+<hr />
 
-## Habilidades 
+## Skills 
 
 ### Front-End ⑥
 <p>
@@ -42,8 +40,12 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<hr />
+
 ## Estudo 📚
 
 - ETIM DS: Técnico Desenvolvimento de Sistemas integrado ao Ensino Médio 
 - Escola ETEC JOÃO MARIA STEVANATTO
 - Itapira-SP
+
+<hr />

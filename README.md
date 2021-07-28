@@ -5,6 +5,27 @@
 [![Twitter Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/gusta_ornaghi/)](https://www.instagram.com/gusta_ornaghi/)
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-ff0000?style=flat-square&labelColor=ff0000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@codergustavo)](https://www.tiktok.com/@codergustavo)
 
-## Sobre Mim
-Tenho 17 anos, sou desenvolvedor Front-End e Back-End WEB, estou cursando o ensino médio junto com curso técnico Desenvolvimento de Sistemas na ETEC JOÃO MARIA STEVANATTO em Itapira-SP, sou apaixonado em TI desde criança.
+## Sobre Mim 😃
+Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
 
+## Habilidades 
+
+### Front-End ⑥
+- HTML5
+- CSS3
+- SASS
+- JavaScript
+- Jquery
+- Bootstrap
+
+### Back-End ④
+- PHP
+- MySQL
+- Framework Laravel
+- Python
+
+## Estudo 📚
+
+- ETIM DS: Técnico Desenvolvimento de Sistemas integrado ao Ensino Médio 
+- Escola ETEC JOÃO MARIA STEVANATTO
+- Itapira-SP

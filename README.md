@@ -1,28 +1,29 @@
 <h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
+
 <p align='center'>
 Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
 </p>
 
 <p align='center'>
-    <a href="https://github.com/CoderGustavo/" style="text-decoration: none;">
+    <a href="https://github.com/CoderGustavo/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/gusta_ornaghi/" style="text-decoration: none;">
+    <a href="https://www.instagram.com/gusta_ornaghi/" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.tiktok.com/@codergustavo" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/TikTok-e056fd?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <a href="https://www.tiktok.com/@codergustavo" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/TikTok-be2edd?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
 </p>
 
 <hr />
 
-## Skills 
+<h2>Minhas Habilidades</h2> 
 
-### Front-End ⑥
+<h2> Front-End ⑥</h2>
 <p>
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -32,7 +33,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
     <img src="https://img.shields.io/badge/BootStrap-e74c3c?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-### Back-End ④
+<h2> Back-End ④</h2>
 <p>
     <img src="https://img.shields.io/badge/PHP-9b59b6?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySql-3498db?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;

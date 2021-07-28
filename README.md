@@ -1,12 +1,5 @@
-<style>
-    h1:nth-of-type(1){
-        font-size: 35pt;
-    }
-    a:hover{
-        text-decoration: none;
-    }
-</style>
-<h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
+
+<h1 align='center' style="font-size: 35pt">Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
 
 <p align='center'>
 Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
@@ -29,9 +22,9 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
 
 <hr />
 
-<h1>Minhas Habilidades</h1> 
+<h2>Minhas Habilidades</h2> 
 
-<h2> Front-End ⑥</h2>
+<h3> Front-End ⑥</h3>
 <p>
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -41,7 +34,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me consi
     <img src="https://img.shields.io/badge/BootStrap-e74c3c?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h2> Back-End ④</h2>
+<h3> Back-End ④</h3>
 <p>
     <img src="https://img.shields.io/badge/PHP-9b59b6?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySql-3498db?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;

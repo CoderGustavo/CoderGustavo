@@ -45,6 +45,8 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 <hr />
 
 <h3 align='center'>Habilidades em aprendizado</h3>
+
+<h4> Front-End</h4>
 <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>

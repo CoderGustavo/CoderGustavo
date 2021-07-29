@@ -41,7 +41,6 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/Laravel-e74c3c?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergustavo&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
     
 <hr />
 

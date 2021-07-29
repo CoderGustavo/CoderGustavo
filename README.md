@@ -23,8 +23,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 <hr />
 
 <h3 align='center'>Minhas Habilidades</h3> 
-<div style="display: inline_block">
-<div>
+
 <h4> Front-End</h4>
 <p>
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -42,13 +41,8 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/Laravel-e74c3c?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
-</div>
-<div>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=codergustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergustavo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-</div>
-
+    
 <hr />
 
 <h3 align='center'>Habilidades em aprendizado</h3>

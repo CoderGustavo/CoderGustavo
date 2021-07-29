@@ -1,5 +1,5 @@
 
-<h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo 👦🏻</h1>
+<h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo! 👦🏻</h1>
 
 <p align='center'>
 Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.

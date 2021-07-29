@@ -23,7 +23,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 <hr />
 
 <h3 align='center'>Minhas Habilidades</h3> 
-<div style="float:left;">
+<div style="display:inline_block;">
     <div>
 <h4> Front-End</h4>
             <p>

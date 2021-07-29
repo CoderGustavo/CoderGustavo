@@ -20,7 +20,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr />
+##
 
 <h3 align='center'>Minhas Habilidades</h3> 
 
@@ -42,7 +42,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
     
-<hr />
+##
 
 <h3 align='center'>Habilidades em aprendizado</h3>
 
@@ -51,7 +51,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<hr />
+##
 
 ## Estudo 📚
 

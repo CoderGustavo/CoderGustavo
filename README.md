@@ -30,8 +30,6 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-</p>
-<p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JQuery-3498db?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/BootStrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
@@ -46,7 +44,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 </p>
 </div>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGustavo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergustavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
 

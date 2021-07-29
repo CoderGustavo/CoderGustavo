@@ -30,11 +30,13 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
         <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
+    </p>
+    <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/JQuery-3498db?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/BootStrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
     </p>
-
+    
 <h4> Back-End</h4>
         <p>
             <img src="https://img.shields.io/badge/PHP-9b59b6?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;

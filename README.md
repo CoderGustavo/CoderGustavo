@@ -2,7 +2,7 @@
 <h1 align='center'>Olá Pessoal 👋, Me chamo Gustavo! 👦🏻</h1>
 
 <p align='center'>
-Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me considerar um desenvolvedor Front-End e Back-End WEB.
+Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me tornei um desenvolvedor Front-End e Back-End WEB.
 </p>
 
 <p align='center'>

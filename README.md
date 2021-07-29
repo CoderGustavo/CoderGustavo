@@ -43,9 +43,9 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
 </div>
-<div style='display: flex; justify-content: around;'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codergustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergustavo&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=codergustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergustavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
 

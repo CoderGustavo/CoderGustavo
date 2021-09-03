@@ -20,7 +20,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-https://github-readme-stats.vercel.app/api?username=CoderGustavo&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api?username=CoderGustavo&theme=blue-green" />
 https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGustavo&theme=blue-green
 
 <hr>

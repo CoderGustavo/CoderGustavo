@@ -12,7 +12,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <a href="https://www.linkedin.com/in/gustavo-ornaghi-antunes-713ba91b3/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/gusta_ornaghi/">
+    <a href="https://www.instagram.com/codergustavo/">
         <img src="https://img.shields.io/badge/Instagram-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/@codergustavo">
@@ -38,6 +38,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/JQuery-3498db?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/BootStrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-3498db?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 </p>
             
 <h4> Back-End</h4>
@@ -54,7 +55,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 
 <h4> Front-End</h4>
 <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB" />
 </p>
 
 <hr>
@@ -63,5 +64,9 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 
 - ETIM DS: Técnico Desenvolvimento de Sistemas integrado ao Ensino Médio 
 - Escola ETEC JOÃO MARIA STEVANATTO
+- Itapira-SP
+
+- ENSINO SUPERIOR: Desenvolvimento de Sistemas Multiplataforma (Cursando 3° Semestre de 6° Semestre)
+- Fatec Ogari Castro Pacheco
 - Itapira-SP
 

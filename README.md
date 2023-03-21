@@ -38,7 +38,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
     <img src="https://img.shields.io/badge/BootStrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Tailwind_CSS-3498db?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Styled-Components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />&nbsp;&nbsp;
     
 </p>
             

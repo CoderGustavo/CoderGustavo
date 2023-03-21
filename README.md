@@ -55,7 +55,7 @@ Tenho 17 anos, desde criança fui apaixonado em computador e hoje posso me torne
 
 <h4> Front-End</h4>
 <p>
-    <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 <hr>

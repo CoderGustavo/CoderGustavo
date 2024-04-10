@@ -58,7 +58,7 @@ I'm 20 year old. I was born in front of a computer, playing and understanding ho
 
 <h4> Others abilities</h4>
 <p>
-    <img src="https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Kubernetes-1d63ed?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 </p>
 
